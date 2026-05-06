@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
-<h3 align="center"> Data Analyst & Scientist | 3x Hackathon Winner | Devops Engineer </h3>
+<h3 align="center"> Data Scientist | 3x Hackathon Winner | Devops Engineer </h3>
 
 ---
 
