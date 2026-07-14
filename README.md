@@ -1,5 +1,5 @@
 <h1 align="center">Holla, Saksham this side✨</h1>
-<h3 align="center"> Data Science Intern🎓 | 3x Hackathon Winner🏆 | Open Source Comtributor💻 </h3>
+<h3 align="center"> Data Science Intern🎓 | 3x Hackathon Winner🏆 | Open Source Contributor💻 </h3>
 
 ---
 
