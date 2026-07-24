@@ -39,7 +39,7 @@ I don't just study AI — I ship it. My work spans end-to-end ML pipelines, LLM-
 
 ## Experience
 
-**Data & AI Intern — Graphura** &nbsp;·&nbsp; `2026 Feb - Aug`
+**Data & AI Intern — Graphura** &nbsp;·&nbsp; `2025 – Present`
 
 Building and deploying ML models, working on real-world data pipelines, and contributing to AI-driven product features in a fast-paced startup environment.
 
@@ -47,11 +47,11 @@ Building and deploying ML models, working on real-world data pipelines, and cont
 
 Leading the AI/ML chapter of Code Rangers, a technical community. Organizing workshops, mentoring peers on ML concepts, and driving AI initiatives on campus.
 
-**Campus Ambassador — BeastLife** &nbsp;·&nbsp; `2025 Sep-Nov`
+**Campus Ambassador — SRH** &nbsp;·&nbsp; `2024 – 2025`
 
-Represented the organization at the university level by conducting several fun-packed energetic sessions.
+Represented the institution at technical events, organized coding contests, and built a local developer community.
 
-**Open Source Contributor** &nbsp;·&nbsp; `2026 – Present`
+**Open Source Contributor** &nbsp;·&nbsp; `2025 – Present`
 
 Actively contributing to repositories, maintaining public learning resources, and documenting ML experiments for the community.
 
@@ -78,7 +78,7 @@ Actively contributing to repositories, maintaining public learning resources, an
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d0d1a?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Huggingface-0d0d1a?style=for-the-badge&logo=Huggingface&logoColor=white)
 
-**Data Analysis**
+**Data Science**
 
 ![Pandas](https://img.shields.io/badge/Pandas-0d0d1a?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0d0d1a?style=for-the-badge&logo=numpy&logoColor=013243)
@@ -102,6 +102,17 @@ Actively contributing to repositories, maintaining public learning resources, an
 ![MySQL](https://img.shields.io/badge/MySQL-0d0d1a?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-0d0d1a?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF)
 
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d1a?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d1a?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Terraform](https://img.shields.io/badge/Terraform-0d0d1a?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+![Jenkins](https://img.shields.io/badge/Jenkins-0d0d1a?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![Nginx](https://img.shields.io/badge/Nginx-0d0d1a?style=for-the-badge&logo=nginx&logoColor=009639)
+![Git](https://img.shields.io/badge/Git-0d0d1a?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-0d0d1a?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
 **Design & Product**
 
 ![Figma](https://img.shields.io/badge/Figma-0d0d1a?style=for-the-badge&logo=figma&logoColor=F24E1E)
@@ -113,7 +124,7 @@ Actively contributing to repositories, maintaining public learning resources, an
 
 ---
 
-## AI Full Stack Projects
+## Featured Projects
 
 ### Scam Detection AI
 
@@ -147,13 +158,49 @@ A Generative AI-powered platform that synthesizes restaurant reviews using LLMs,
 
 ---
 
+### FLEX BOT — Hackathon Winner
+
+An AI-powered conversational bot built and shipped end-to-end during the Code Wizards Hackathon by SRH. Demonstrates rapid prototyping and multi-turn dialogue handling under time constraints.
+
+**Stack:** `TypeScript` · `Node.js` · `REST APIs` · `NLP`
+
+**Highlights:**
+- Fully functional chatbot shipped within hackathon timeframe
+- Multi-turn conversation state management
+- Winner — Code Wizards Hackathon by SRH
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx/Hackwins_FLEX_BOT_)
+
+---
+
+### Machine Learning Journey
+
+A structured repository documenting a full ML learning path — spanning supervised/unsupervised learning, neural networks, and applied projects. Based on *Hands-On ML* by Aurélien Géron and Sheryians AI School.
+
+**Stack:** `Python` · `Jupyter Notebook` · `scikit-learn` · `TensorFlow`
+
+**Highlights:**
+- Organized by algorithm with annotated, reproducible notebooks
+- Theory → implementation → experimentation workflow
+- Used as a teaching resource within Code Rangers
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx/Machine-Learning-)
+
+---
+
 ## Achievements
 
-**3x Hackathon Winner** — Consecutive wins across competitive hackathons including Internal SIH at Tiips. Every win shipped a working product before demo time.
+🏆 **3x Hackathon Winner** — Consecutive wins across competitive hackathons including Code Wizards by SRH. Every win shipped a working product before demo time.
 
-**2nd in Inter Uni Debate** — Earned 2nd place in the Inter-University Debate Competition, demonstrating strong critical thinking and persuasive communication.
+🤖 **AI/ML Head — Code Rangers** — Leading the AI/ML vertical of a campus tech community, running workshops, mentoring students, and driving a culture of applied AI.
 
-**Open Source Contributor(SSOC)** — Actively maintaining public repositories and contributing learning resources to the developer community.
+💼 **Industry Intern — Graphura** — Selected as a Data & AI Intern, contributing to production ML systems and data pipelines at a product-first startup.
+
+📌 **Campus Ambassador** — Recognized campus representative who organized technical events and grew the developer community at the institutional level.
+
+⭐ **Open Source Contributor** — Actively maintaining public repositories and contributing learning resources to the developer community.
+
+📚 **DSA Practitioner** — Dedicated LeetCode practice with curated, annotated solutions organized by data structure and algorithm, with full complexity analysis.
 
 ---
 
@@ -163,6 +210,9 @@ A Generative AI-powered platform that synthesizes restaurant reviews using LLMs,
 |---|---|---|
 | [Scam-Detection-AI](https://github.com/Sakshamxx/Scam-Detection-AI) | Production-grade scam classification system | Python |
 | [GenAI-Restaurant-Review](https://github.com/Sakshamxx/GenAI-Restaurant-Review) | LLM-powered review platform with live demo | JavaScript |
+| [Machine-Learning-](https://github.com/Sakshamxx/Machine-Learning-) | Structured ML learning path and notebooks | Jupyter |
+| [Leetcode-Practice](https://github.com/Sakshamxx/Leetcode-Practice) | Curated DSA solutions with complexity notes | Java |
+| [JAVA_DSA](https://github.com/Sakshamxx/JAVA_DSA) | Comprehensive DSA implementation in Java | Java |
 
 ---
 
@@ -213,12 +263,13 @@ A Generative AI-powered platform that synthesizes restaurant reviews using LLMs,
 
 ---
 
+## Philosophy
 
 <div align="center">
 
 > *"The best way to predict the future is to build it."*
 >
-> I write code that ships. I build products, not just prototypes. Every project is an attempt to turn complex, messy problems into something elegant and useful.
+> I write code that ships. I build products, not just prototypes. Every project is an attempt to turn complex, messy problems into something elegant — and useful.
 
 </div>
 
