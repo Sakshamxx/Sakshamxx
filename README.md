@@ -158,9 +158,9 @@ A Generative AI-powered platform that synthesizes restaurant reviews using LLMs,
 <div align="center">
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshamxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sakshamxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sakshamxx&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/><br/>
