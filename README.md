@@ -170,16 +170,16 @@ A Generative AI-powered platform that synthesizes restaurant reviews using LLMs,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshamxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshamxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshamxx&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=C9D1D9" />
+<img src="https://streak-stats.demolab.com/?user=Sakshamxx&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshamxx&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=A78BFA" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshamxx&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=A78BFA" alt="Activity Graph" />
 
 </div>
 
@@ -189,7 +189,11 @@ A Generative AI-powered platform that synthesizes restaurant reviews using LLMs,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sakshamxx/Sakshamxx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakshamxx/Sakshamxx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakshamxx/Sakshamxx/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sakshamxx/Sakshamxx/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
