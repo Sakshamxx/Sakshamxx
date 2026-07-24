@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1040,60:2d1b69,100:0f0c29&height=220&section=header&text=Saksham%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Builder&descAlignY=60&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1040,60:2d1b69,100:0f0c29&height=220&section=header&text=Saksham%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=UI/UX%20Designer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Web%20Developer&descAlignY=60&descSize=20" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Turning+ideas+into+intelligent+products;3x+Hackathon+Winner;AI-ML+Head+%40+Code+Rangers;Data+%26+AI+Intern+%40+Graphura;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=3x+Hackathon+Winner;AI-ML+Head+%40+Code+Rangers;Data+%26+AI+Intern+%40+Graphura;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -67,7 +67,6 @@ Actively contributing to repositories, maintaining public learning resources, an
 ![Java](https://img.shields.io/badge/Java-0d0d1a?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d1a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d1a?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 **AI / Machine Learning**
 
@@ -77,11 +76,14 @@ Actively contributing to repositories, maintaining public learning resources, an
 ![Keras](https://img.shields.io/badge/Keras-0d0d1a?style=for-the-badge&logo=keras&logoColor=D00000)
 ![LangChain](https://img.shields.io/badge/LangChain-0d0d1a?style=for-the-badge&logo=chainlink&logoColor=A78BFA)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d0d1a?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Huggingface-0d0d1a?style=for-the-badge&logo=Huggingface&logoColor=white)
 
-**Data Science**
+**Data Analysis**
 
 ![Pandas](https://img.shields.io/badge/Pandas-0d0d1a?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0d0d1a?style=for-the-badge&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d1a?style=for-the-badge&logo=matplotlib&logoColor=013243)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d0d1a?style=for-the-badge&logo=seaborn&logoColor=013243)
 ![Plotly](https://img.shields.io/badge/Plotly-0d0d1a?style=for-the-badge&logo=plotly&logoColor=3F4F75)
 ![Power BI](https://img.shields.io/badge/Power_BI-0d0d1a?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Apache Spark](https://img.shields.io/badge/Spark-0d0d1a?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
@@ -99,17 +101,6 @@ Actively contributing to repositories, maintaining public learning resources, an
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d1a?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-0d0d1a?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-0d0d1a?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d1a?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d1a?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Terraform](https://img.shields.io/badge/Terraform-0d0d1a?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Jenkins](https://img.shields.io/badge/Jenkins-0d0d1a?style=for-the-badge&logo=jenkins&logoColor=D24939)
-![Nginx](https://img.shields.io/badge/Nginx-0d0d1a?style=for-the-badge&logo=nginx&logoColor=009639)
-![Git](https://img.shields.io/badge/Git-0d0d1a?style=for-the-badge&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-0d0d1a?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 **Design & Product**
 
@@ -136,6 +127,7 @@ An end-to-end AI system that detects financial and communication scams in real t
 - Handles adversarial inputs and edge-case evasion patterns
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx/Scam-Detection-AI)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-A78BFA?style=for-the-badge&logo=render&logoColor=white)](https://team-j-fake-internship-job-scam-p0pu.onrender.com/)
 
 ---
 
@@ -155,49 +147,13 @@ A Generative AI-powered platform that synthesizes restaurant reviews using LLMs,
 
 ---
 
-### FLEX BOT — Hackathon Winner
-
-An AI-powered conversational bot built and shipped end-to-end during the Code Wizards Hackathon by SRH. Demonstrates rapid prototyping and multi-turn dialogue handling under time constraints.
-
-**Stack:** `TypeScript` · `Node.js` · `REST APIs` · `NLP`
-
-**Highlights:**
-- Fully functional chatbot shipped within hackathon timeframe
-- Multi-turn conversation state management
-- Winner — Code Wizards Hackathon by SRH
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx/Hackwins_FLEX_BOT_)
-
----
-
-### Machine Learning Journey
-
-A structured repository documenting a full ML learning path — spanning supervised/unsupervised learning, neural networks, and applied projects. Based on *Hands-On ML* by Aurélien Géron and Sheryians AI School.
-
-**Stack:** `Python` · `Jupyter Notebook` · `scikit-learn` · `TensorFlow`
-
-**Highlights:**
-- Organized by algorithm with annotated, reproducible notebooks
-- Theory → implementation → experimentation workflow
-- Used as a teaching resource within Code Rangers
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx/Machine-Learning-)
-
----
-
 ## Achievements
 
-🏆 **3x Hackathon Winner** — Consecutive wins across competitive hackathons including Code Wizards by SRH. Every win shipped a working product before demo time.
+**3x Hackathon Winner** — Consecutive wins across competitive hackathons including Internal SIH at Tiips. Every win shipped a working product before demo time.
 
-🤖 **AI/ML Head — Code Rangers** — Leading the AI/ML vertical of a campus tech community, running workshops, mentoring students, and driving a culture of applied AI.
+**2nd in Inter Uni Debate** — Earned 2nd place in the Inter-University Debate Competition, demonstrating strong critical thinking and persuasive communication.
 
-💼 **Industry Intern — Graphura** — Selected as a Data & AI Intern, contributing to production ML systems and data pipelines at a product-first startup.
-
-📌 **Campus Ambassador** — Recognized campus representative who organized technical events and grew the developer community at the institutional level.
-
-⭐ **Open Source Contributor** — Actively maintaining public repositories and contributing learning resources to the developer community.
-
-📚 **DSA Practitioner** — Dedicated LeetCode practice with curated, annotated solutions organized by data structure and algorithm, with full complexity analysis.
+**Open Source Contributor(SSOC)** — Actively maintaining public repositories and contributing learning resources to the developer community.
 
 ---
 
@@ -207,9 +163,6 @@ A structured repository documenting a full ML learning path — spanning supervi
 |---|---|---|
 | [Scam-Detection-AI](https://github.com/Sakshamxx/Scam-Detection-AI) | Production-grade scam classification system | Python |
 | [GenAI-Restaurant-Review](https://github.com/Sakshamxx/GenAI-Restaurant-Review) | LLM-powered review platform with live demo | JavaScript |
-| [Machine-Learning-](https://github.com/Sakshamxx/Machine-Learning-) | Structured ML learning path and notebooks | Jupyter |
-| [Leetcode-Practice](https://github.com/Sakshamxx/Leetcode-Practice) | Curated DSA solutions with complexity notes | Java |
-| [JAVA_DSA](https://github.com/Sakshamxx/JAVA_DSA) | Comprehensive DSA implementation in Java | Java |
 
 ---
 
@@ -256,21 +209,18 @@ A structured repository documenting a full ML learning path — spanning supervi
 
 ---
 
-## Philosophy
 
 <div align="center">
 
 > *"The best way to predict the future is to build it."*
 >
-> I write code that ships. I build products, not just prototypes. Every project is an attempt to turn complex, messy problems into something elegant — and useful.
+> I write code that ships. I build products, not just prototypes. Every project is an attempt to turn complex, messy problems into something elegant and useful.
 
 </div>
 
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1b69,100:0d0d1a&height=110&section=footer" />
 
 <sub>Built with intention · Open to opportunities · Let's build something remarkable</sub>
 
@@ -279,3 +229,5 @@ A structured repository documenting a full ML learning path — spanning supervi
 <img src="https://komarev.com/ghpvc/?username=Sakshamxx&style=flat-square&color=a78bfa&label=Visitors" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1b69,100:0d0d1a&height=110&section=footer" />
