@@ -20,7 +20,7 @@
 
 <br/>
 
-## ******Flagship Buildsgit config --global user.email******
+## ******Flagship Builds
 
 <table width="100%">
 <tr><td width="100%">
