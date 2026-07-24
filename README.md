@@ -113,7 +113,7 @@ Actively contributing to repositories, maintaining public learning resources, an
 
 ---
 
-## Featured Projects
+## AI Full Stack Projects
 
 ### Scam Detection AI
 
