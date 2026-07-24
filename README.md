@@ -15,9 +15,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d0d1a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Sakshamchauhanxx/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://)
-<img src="https://komarev.com/ghpvc/?username=Sakshamxx&style=for-the-badge&color=a78bfa&label=Profile+Views" alt="Profile Views" />
-
-
 
 </div>
 
@@ -200,10 +197,6 @@ A Generative AI-powered platform that synthesizes restaurant reviews using LLMs,
 <div align="center">
 
 <sub>Built with intention · Open to opportunities · Let's build something remarkable</sub>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sakshamxx&style=flat-square&color=a78bfa&label=Visitors" />
 
 </div>
 
