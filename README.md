@@ -182,21 +182,12 @@ A Generative AI-powered platform that synthesizes restaurant reviews using LLMs,
 </picture>
 
 </div>
----
 
 <div align="center">
 
 > *"The best way to predict the future is to build it."*
 >
 > I write code that ships. I build products, not just prototypes. Every project is an attempt to turn complex, messy problems into something elegant — and useful.
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Built with intention · Open to opportunities · Let's build something remarkable</sub>
 
 </div>
 
