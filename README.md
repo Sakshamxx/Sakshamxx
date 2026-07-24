@@ -25,33 +25,29 @@
 
 ## About Me
 
-I'm a **Data & AI Engineer** passionate about building intelligent systems that solve real-world problems — from scam detection pipelines to GenAI-powered applications. Currently interning at **Graphura** where I work on production ML systems, while leading the **AI/ML vertical** at Code Rangers, a college tech community.
+I’m Saksham, a Data & AI Engineer t building scalable and intelligent software.
 
-I don't just study AI — I ship it. My work spans end-to-end ML pipelines, LLM-based applications, and full-stack data products deployed in production.
+My interests lie in Machine Learning, Data Engineering, Generative AI, NLP, and Backend Development. I enjoy developing end-to-end AI applications, designing data pipelines, working with LLMs, and exploring new technologies that solve practical problems.
 
-- **Currently:** Data & AI Intern at **Graphura** — building production ML models and data pipelines
-- **Building:** Generative AI products using LLMs, RAG, and multi-modal architectures
-- **Deepening:** Advanced DSA, System Design, and MLOps fundamentals
-- **Open to:** Hackathon collaborations, research projects, and serious coding partnerships
-- **Fun fact:** I've won 3 hackathons — and each one shipped a working product by demo time
+Beyond coding, I’m constantly learning through projects, DSA, system design, open-source contributions, and hackathons. I enjoy collaborating with others, sharing knowledge, and building technology that creates real value.
 
 ---
 
 ## Experience
 
-**Data & AI Intern — Graphura** &nbsp;·&nbsp; `2025 – Present`
+**Data & AI Intern — Graphura** &nbsp;·&nbsp; `2026 Feb – Present`
 
 Building and deploying ML models, working on real-world data pipelines, and contributing to AI-driven product features in a fast-paced startup environment.
 
-**AI/ML Head — Code Rangers** &nbsp;·&nbsp; `2024 – Present`
+**AI/ML Head — Code Rangers** &nbsp;·&nbsp; `2024 Oct – Present`
 
 Leading the AI/ML chapter of Code Rangers, a technical community. Organizing workshops, mentoring peers on ML concepts, and driving AI initiatives on campus.
 
-**Campus Ambassador — SRH** &nbsp;·&nbsp; `2024 – 2025`
+**Campus Ambassador — BeastLife** &nbsp;·&nbsp; `2025 Sep – Nov`
 
-Represented the institution at technical events, organized coding contests, and built a local developer community.
+Represented the Organization at Institutional events, organized fun packed contests, and built a local fitness community.
 
-**Open Source Contributor** &nbsp;·&nbsp; `2025 – Present`
+**Open Source Contributor** &nbsp;·&nbsp; `2026 – Present`
 
 Actively contributing to repositories, maintaining public learning resources, and documenting ML experiments for the community.
 
@@ -102,17 +98,6 @@ Actively contributing to repositories, maintaining public learning resources, an
 ![MySQL](https://img.shields.io/badge/MySQL-0d0d1a?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-0d0d1a?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF)
 
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d1a?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d1a?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Terraform](https://img.shields.io/badge/Terraform-0d0d1a?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Jenkins](https://img.shields.io/badge/Jenkins-0d0d1a?style=for-the-badge&logo=jenkins&logoColor=D24939)
-![Nginx](https://img.shields.io/badge/Nginx-0d0d1a?style=for-the-badge&logo=nginx&logoColor=009639)
-![Git](https://img.shields.io/badge/Git-0d0d1a?style=for-the-badge&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-0d0d1a?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
 **Design & Product**
 
 ![Figma](https://img.shields.io/badge/Figma-0d0d1a?style=for-the-badge&logo=figma&logoColor=F24E1E)
@@ -124,7 +109,7 @@ Actively contributing to repositories, maintaining public learning resources, an
 
 ---
 
-## Featured Projects
+## AI Full Stack Projects
 
 ### Scam Detection AI
 
@@ -158,61 +143,13 @@ A Generative AI-powered platform that synthesizes restaurant reviews using LLMs,
 
 ---
 
-### FLEX BOT — Hackathon Winner
-
-An AI-powered conversational bot built and shipped end-to-end during the Code Wizards Hackathon by SRH. Demonstrates rapid prototyping and multi-turn dialogue handling under time constraints.
-
-**Stack:** `TypeScript` · `Node.js` · `REST APIs` · `NLP`
-
-**Highlights:**
-- Fully functional chatbot shipped within hackathon timeframe
-- Multi-turn conversation state management
-- Winner — Code Wizards Hackathon by SRH
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx/Hackwins_FLEX_BOT_)
-
----
-
-### Machine Learning Journey
-
-A structured repository documenting a full ML learning path — spanning supervised/unsupervised learning, neural networks, and applied projects. Based on *Hands-On ML* by Aurélien Géron and Sheryians AI School.
-
-**Stack:** `Python` · `Jupyter Notebook` · `scikit-learn` · `TensorFlow`
-
-**Highlights:**
-- Organized by algorithm with annotated, reproducible notebooks
-- Theory → implementation → experimentation workflow
-- Used as a teaching resource within Code Rangers
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx/Machine-Learning-)
-
----
-
 ## Achievements
 
-🏆 **3x Hackathon Winner** — Consecutive wins across competitive hackathons including Code Wizards by SRH. Every win shipped a working product before demo time.
+**3x Hackathon Winner** — Consecutive wins across competitive hackathons including Code Wizards by SRH. Every win shipped a working product before demo time.
 
-🤖 **AI/ML Head — Code Rangers** — Leading the AI/ML vertical of a campus tech community, running workshops, mentoring students, and driving a culture of applied AI.
+**Campus Ambassador** — Recognized campus representative who organized technical events and grew the developer community at the institutional level.
 
-💼 **Industry Intern — Graphura** — Selected as a Data & AI Intern, contributing to production ML systems and data pipelines at a product-first startup.
-
-📌 **Campus Ambassador** — Recognized campus representative who organized technical events and grew the developer community at the institutional level.
-
-⭐ **Open Source Contributor** — Actively maintaining public repositories and contributing learning resources to the developer community.
-
-📚 **DSA Practitioner** — Dedicated LeetCode practice with curated, annotated solutions organized by data structure and algorithm, with full complexity analysis.
-
----
-
-## Open Source
-
-| Repository | Description | Language |
-|---|---|---|
-| [Scam-Detection-AI](https://github.com/Sakshamxx/Scam-Detection-AI) | Production-grade scam classification system | Python |
-| [GenAI-Restaurant-Review](https://github.com/Sakshamxx/GenAI-Restaurant-Review) | LLM-powered review platform with live demo | JavaScript |
-| [Machine-Learning-](https://github.com/Sakshamxx/Machine-Learning-) | Structured ML learning path and notebooks | Jupyter |
-| [Leetcode-Practice](https://github.com/Sakshamxx/Leetcode-Practice) | Curated DSA solutions with complexity notes | Java |
-| [JAVA_DSA](https://github.com/Sakshamxx/JAVA_DSA) | Comprehensive DSA implementation in Java | Java |
+**Open Source Contributor** — Actively maintaining public repositories and contributing learning resources to the developer community.
 
 ---
 
@@ -246,24 +183,7 @@ A structured repository documenting a full ML learning path — spanning supervi
 </picture>
 
 </div>
-
 ---
-
-## Coding Profiles
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-chauhan-b18bb5277)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamchauhan003@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d0d1a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Sakshamchauhanxx/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://)
-
-</div>
-
----
-
-## Philosophy
 
 <div align="center">
 
