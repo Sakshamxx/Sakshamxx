@@ -115,7 +115,7 @@ Actively contributing to repositories, maintaining public learning resources, an
 
 An end-to-end AI system that detects financial and communication scams in real time using NLP and ensemble ML models. Built with a production-ready architecture that classifies threat levels with high precision.
 
-**Stack:** `Python` · `scikit-learn` · `NLP` · `FastAPI` · `Docker`
+**Stack:** `Python` · `scikit-learn` · `NLP` · `FastAPI` · `Render` · `Supabase`
 
 **Highlights:**
 - Multi-model ensemble for high-confidence classification
@@ -131,7 +131,7 @@ An end-to-end AI system that detects financial and communication scams in real t
 
 A Generative AI-powered platform that synthesizes restaurant reviews using LLMs, enabling smart summarization, sentiment analysis, and natural language Q&A over review data.
 
-**Stack:** `JavaScript` · `Next.js` · `OpenAI API` · `Vercel`
+**Stack:** `Transformer` · `Deep Learning` ·  `Next.js` · `Gemini API` · `Vercel` · `React` · `Supabase`
 
 **Highlights:**
 - AI-generated review summaries from raw user input
@@ -157,8 +157,11 @@ A Generative AI-powered platform that synthesizes restaurant reviews using LLMs,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshamxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshamxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 <br/><br/>
 
