@@ -15,10 +15,9 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d0d1a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Sakshamchauhanxx/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://)
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=Sakshamxx&style=for-the-badge&color=a78bfa&label=Profile+Views" alt="Profile Views" />
+
+
 
 </div>
 
@@ -40,7 +39,7 @@ I don't just study AI — I ship it. My work spans end-to-end ML pipelines, LLM-
 
 ## Experience
 
-**Data & AI Intern — Graphura** &nbsp;·&nbsp; `2025 – Present`
+**Data & AI Intern — Graphura** &nbsp;·&nbsp; `2026 Feb - Aug`
 
 Building and deploying ML models, working on real-world data pipelines, and contributing to AI-driven product features in a fast-paced startup environment.
 
@@ -48,11 +47,11 @@ Building and deploying ML models, working on real-world data pipelines, and cont
 
 Leading the AI/ML chapter of Code Rangers, a technical community. Organizing workshops, mentoring peers on ML concepts, and driving AI initiatives on campus.
 
-**Campus Ambassador — SRH** &nbsp;·&nbsp; `2024 – 2025`
+**Campus Ambassador — BeastLife** &nbsp;·&nbsp; `2025 Sep-Nov`
 
-Represented the institution at technical events, organized coding contests, and built a local developer community.
+Represented the organization at the university level by conducting several fun-packed energetic sessions.
 
-**Open Source Contributor** &nbsp;·&nbsp; `2025 – Present`
+**Open Source Contributor** &nbsp;·&nbsp; `2026 – Present`
 
 Actively contributing to repositories, maintaining public learning resources, and documenting ML experiments for the community.
 
