@@ -1,42 +1,71 @@
 <div align="center">
 
-<br/>
+---
 
-## About
+## About Me
 
-<table width="100%"><tr><td>
+<table>
+<tr>
+<td>
 
-<br/>
+---
 
-## Connect
+## Experience
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+---
 
 ## Tech Stack
 
 <div align="center">
 
-<br/>
+---
 
-## ******Flagship Builds
+## Featured Projects
 
-<table width="100%">
-<tr><td width="100%">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+---
 
-## ******GitHub Analytics******
-
-<div align="center">
-
-<br/>
-
-## ******Contribution Snake******
+## Achievements
 
 <div align="center">
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05050a,50:1b1035,100:ff2e88&height=140&section=footer" />
+## Open Source
+
+<div align="center">
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+---
+
+## Philosophy
+
+<div align="center">
+
+---
+
+<div align="center">
