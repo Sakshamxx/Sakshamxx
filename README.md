@@ -22,7 +22,7 @@
 
 ## About Me
 
-I’m Saksham, a Data & AI Engineer t building scalable and intelligent software.
+I’m Saksham, a Data & AI Engineer building scalable and intelligent software.
 
 My interests lie in Machine Learning, Data Engineering, Generative AI, NLP, and Backend Development. I enjoy developing end-to-end AI applications, designing data pipelines, working with LLMs, and exploring new technologies that solve practical problems.
 
