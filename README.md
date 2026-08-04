@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1040,60:2d1b69,100:0f0c29&height=220&section=header&text=Saksham%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=UI/UX%20Designer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Web%20Developer&descAlignY=60&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1040,60:2d1b69,100:0f0c29&height=220&section=header&text=Saksham%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20AI%20Engineer&descAlignY=60&descSize=20" />
 
 <br/>
 
@@ -103,40 +103,6 @@ Actively contributing to repositories, maintaining public learning resources, an
 ![Canva](https://img.shields.io/badge/Canva-0d0d1a?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
 </div>
-
----
-
-## AI Full Stack Projects
-
-### Scam Detection AI
-
-An end-to-end AI system that detects financial and communication scams in real time using NLP and ensemble ML models. Built with a production-ready architecture that classifies threat levels with high precision.
-
-**Stack:** `Python` · `scikit-learn` · `NLP` · `FastAPI` · `Render` · `Supabase`
-
-**Highlights:**
-- Multi-model ensemble for high-confidence classification
-- REST API ready for integration with messaging platforms
-- Handles adversarial inputs and edge-case evasion patterns
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx/Scam-Detection-AI)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-A78BFA?style=for-the-badge&logo=render&logoColor=white)](https://team-j-fake-internship-job-scam-p0pu.onrender.com/)
-
----
-
-### GenAI Restaurant Review
-
-A Generative AI-powered platform that synthesizes restaurant reviews using LLMs, enabling smart summarization, sentiment analysis, and natural language Q&A over review data.
-
-**Stack:** `Transformer` · `Deep Learning` ·  `Next.js` · `Gemini API` · `Vercel` · `React` · `Supabase`
-
-**Highlights:**
-- AI-generated review summaries from raw user input
-- Natural language query interface over review data
-- Live in production with real traffic
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx/GenAI-Restaurant-Review)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://gen-ai-restaurant-review.vercel.app)
 
 ---
 
