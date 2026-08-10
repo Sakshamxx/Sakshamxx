@@ -40,10 +40,6 @@ Building and deploying ML models, working on real-world data pipelines, and cont
 
 Leading the AI/ML chapter of Code Rangers, a technical community. Organizing workshops, mentoring peers on ML concepts, and driving AI initiatives on campus.
 
-**Campus Ambassador — BeastLife** &nbsp;·&nbsp; `2025 Sep – Nov`
-
-Represented the Organization at Institutional events, organized fun packed contests, and built a local fitness community.
-
 **Open Source Contributor** &nbsp;·&nbsp; `2026 – Present`
 
 Actively contributing to repositories, maintaining public learning resources, and documenting ML experiments for the community.
@@ -59,7 +55,6 @@ Actively contributing to repositories, maintaining public learning resources, an
 ![Python](https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0d0d1a?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d1a?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 **AI / Machine Learning**
 
@@ -108,9 +103,9 @@ Actively contributing to repositories, maintaining public learning resources, an
 
 ## Achievements
 
-**3x Hackathon Winner** — Consecutive wins across competitive hackathons including Code Wizards by SRH. Every win shipped a working product before demo time.
+**3x Hackathon Winner** — Consecutive wins across competitive hackathons including HackJNU 4.0. Every win shipped a working product before demo time.
 
-**Campus Ambassador** — Recognized campus representative who organized technical events and grew the developer community at the institutional level.
+**Campus Ambassador of Beastlife** — Recognized campus representative who organized Fitness & Fun-Packed events and grew the Fitness Freaks community at the institutional level.
 
 **Open Source Contributor** — Actively maintaining public repositories and contributing learning resources to the developer community.
 
