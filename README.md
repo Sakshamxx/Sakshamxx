@@ -87,6 +87,7 @@ Actively contributing to repositories, maintaining public learning resources, an
 
 ![AWS](https://img.shields.io/badge/AWS-0d0d1a?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d1a?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=for-the-badge&logo=Docker&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-0d0d1a?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-0d0d1a?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF)
 
