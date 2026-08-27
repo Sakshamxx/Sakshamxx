@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=3x+Hackathon+Winner;AI-ML+Head+%40+Code+Rangers;Data+%26+AI+Intern+%40+Graphura;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=4x+Hackathon+Winner;AI-ML+Head+%40+Code+Rangers;Data+%26+AI+Intern+%40+Graphura;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -104,7 +104,7 @@ Actively contributing to repositories, maintaining public learning resources, an
 
 ## Achievements
 
-**3x Hackathon Winner** — Consecutive wins across competitive hackathons including HackJNU 4.0. Every win shipped a working product before demo time.
+**4x Hackathon Winner** — Consecutive wins across competitive hackathons including HackJNU 4.0, TechArambh 2.0 and many more. Every win shipped a working product before demo time.
 
 **Campus Ambassador of Beastlife** — Recognized campus representative who organized Fitness & Fun-Packed events and grew the Fitness Freaks community at the institutional level.
 
