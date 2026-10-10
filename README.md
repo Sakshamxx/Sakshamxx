@@ -125,28 +125,9 @@ Actively contributing to repositories, maintaining public learning resources, an
 
 <img src="https://streak-stats.demolab.com/?user=Sakshamxx&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshamxx&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=A78BFA" alt="Activity Graph" />
-
 </div>
 
 ---
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakshamxx/Sakshamxx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakshamxx/Sakshamxx/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sakshamxx/Sakshamxx/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<div align="center">
-
 > *"The best way to predict the future is to build it."*
 >
 > I write code that ships. I build products, not just prototypes. Every project is an attempt to turn complex, messy problems into something elegant — and useful.
