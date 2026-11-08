@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1040,60:2d1b69,100:0f0c29&height=220&section=header&text=Saksham%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20AI%20Engineer&descAlignY=60&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1040,60:2d1b69,100:0f0c29&height=220&section=header&text=Saksham%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20ML%20Developer&descAlignY=60&descSize=20" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=4x+Hackathon+Winner;Tech+Lead+%40+Trivents;Data+%26+AI+Intern+%40+Graphura;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Gen+AI+Intern+%40+Coding+Ninjas;Tech+Lead+%40+Trivents;AI+Agents+%26+Agentic+AI;Machine+Learning+%26+NLP;4x+Hackathon+Winner;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -22,27 +22,50 @@
 
 ## About Me
 
-I’m Saksham, a Data & AI Engineer building scalable and intelligent software.
+**I build AI that does things, not just says things.**
 
-My interests lie in Machine Learning, Data Engineering, Generative AI, NLP, and Backend Development. I enjoy developing end-to-end AI applications, designing data pipelines, working with LLMs, and exploring new technologies that solve practical problems.
+I'm Saksham, a CS engineer who loves the moment an idea stops being a diagram and starts running. My work sits where Generative AI meets real life: agents that reason, retrieve and act, and models that hold up outside a notebook.
 
-Beyond coding, I’m constantly learning through projects, DSA, system design, open-source contributions, and hackathons. I enjoy collaborating with others, sharing knowledge, and building technology that creates real value.
+Right now I'm going deep on **agentic AI**: multi-step reasoning, tool use, and orchestration with LangGraph and LangChain. Alongside that, I work across Machine Learning, NLP, Computer Vision and full-stack AI delivery, from the data pipeline to an app people can actually use.
+
+I'm a builder first, and I tend to end up leading. I've mentored 20+ students, run workshops, organized hackathons, and been the one saying "let's ship it." I care about technology that's genuinely useful: accessible, helpful in healthcare, practical in everyday life.
 
 ---
 
 ## Experience
 
-**Data & AI Intern — Graphura** &nbsp;·&nbsp; `2026 Feb – Present`
+**Gen AI Intern — Coding Ninjas** &nbsp;·&nbsp; `2026 Nov – Present`
 
-Building and deploying ML models, working on real-world data pipelines, and contributing to AI-driven product features in a fast-paced startup environment.
+[Add what you're building here, e.g. LLM applications, RAG pipelines, AI agents, and the tools you use.]
 
-**AI/ML Head — Code Rangers** &nbsp;·&nbsp; `2024 Oct – Present`
+**Tech Lead — Trivents** &nbsp;·&nbsp; `2025 Sep – Present`
 
-Leading the AI/ML chapter of Code Rangers, a technical community. Organizing workshops, mentoring peers on ML concepts, and driving AI initiatives on campus.
+Leading technical development, owning the organization's website and shaping its technical direction. Built a RAG-based AI system on Hugging Face model APIs, working on the retrieval and response pipeline to make information more accessible and context-aware.
 
-**Open Source Contributor** &nbsp;·&nbsp; `2026 – Present`
+**Data & AI Intelligence Intern — Graphura** &nbsp;·&nbsp; `2026 Feb – Jul`
 
-Actively contributing to repositories, maintaining public learning resources, and documenting ML experiments for the community.
+Built a RAG pipeline with Mistral AI for company documentation, enabling context-aware retrieval and automated summarization. Developed a resume screening and ATS analysis model (Random Forest, ~85% accuracy) and delivered business insights through Power BI dashboards.
+
+**AI/ML Head — Code Rangers** &nbsp;·&nbsp; `2024 Oct – 2026 Jun`
+
+Led the AI/ML vertical of Code Rangers, a technical community. Mentored 20+ students, conducted 5+ technical workshops, and represented the club at events including Code Nakshatra, TechJam 2.0 and Innovision.
+
+**Data Analyst Intern — 3Skill Technologies** &nbsp;·&nbsp; `2026 Jan – Mar`
+
+Cleaned and analyzed product datasets with Pandas, built KPI dashboards in Excel, and trained a baseline Logistic Regression model (80% accuracy).
+
+---
+
+## Featured Projects
+
+**VYRA** — AI fitness platform that turns workouts into challenges using real-time YOLO pose estimation, rep counting and form scoring, with a RAG fitness assistant and multiplayer tracking. Used in a live Push-Up Challenge at TechJam 2.0.
+&nbsp;`Python · OpenCV · YOLO · RAG · LangChain · ChromaDB` &nbsp;·&nbsp; [GitHub](https://) &nbsp;·&nbsp; [Live Demo](https://)
+
+**OrthoSense AI** — AI-assisted osteoarthritis screening from gait and movement patterns, with a DenseNet-based CNN and a multimodal RAG clinical assistant. 1st place at the internal Smart India Hackathon 2026 round.
+&nbsp;`Python · CNN · DenseNet · Multimodal RAG · ChromaDB · LangChain` &nbsp;·&nbsp; [GitHub](https://) &nbsp;·&nbsp; [Presentation](https://)
+
+**Multi-Agent Research System** — A search, reader, writer and critic pipeline that turns one topic into a structured, self-scored report in about 45 minutes instead of 2 hours.
+&nbsp;`Python · LangChain · Tavily · Hugging Face · Streamlit` &nbsp;·&nbsp; [GitHub](https://)
 
 ---
 
@@ -56,15 +79,21 @@ Actively contributing to repositories, maintaining public learning resources, an
 ![Java](https://img.shields.io/badge/Java-0d0d1a?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+**AI Agents & Generative AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-0d0d1a?style=for-the-badge&logo=chainlink&logoColor=A78BFA)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d0d1a?style=for-the-badge&logo=chainlink&logoColor=A78BFA)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d1a?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Huggingface-0d0d1a?style=for-the-badge&logo=Huggingface&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d0d1a?style=for-the-badge&logoColor=A78BFA)
+
 **AI / Machine Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d1a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d0d1a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0d1a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Keras](https://img.shields.io/badge/Keras-0d0d1a?style=for-the-badge&logo=keras&logoColor=D00000)
-![LangChain](https://img.shields.io/badge/LangChain-0d0d1a?style=for-the-badge&logo=chainlink&logoColor=A78BFA)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d0d1a?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Huggingface-0d0d1a?style=for-the-badge&logo=Huggingface&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d0d1a?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 
 **Data Science**
 
@@ -82,6 +111,7 @@ Actively contributing to repositories, maintaining public learning resources, an
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d0d1a?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Flask](https://img.shields.io/badge/Flask-0d0d1a?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d1a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d0d1a?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
 **Cloud & Databases**
 
@@ -104,11 +134,19 @@ Actively contributing to repositories, maintaining public learning resources, an
 
 ## Achievements
 
-**4x Hackathon Winner** — Consecutive wins across competitive hackathons including HackJNU 4.0, TechArambh 2.0 and many more. Every win shipped a working product before demo time.
+**4x Hackathon Winner** — Wins across competitive hackathons including HackJNU 4.0 and Tech Arambh 2.0. Every win shipped a working product before demo time.
 
-**Campus Ambassador of Beastlife** — Recognized campus representative who organized Fitness & Fun-Packed events and grew the Fitness Freaks community at the institutional level.
+**Internal Smart India Hackathon 2026 — 1st Place** — Built OrthoSense, an AI-driven orthopedic assessment solution, at the TIIPS internal round.
 
-**Open Source Contributor** — Actively maintaining public repositories and contributing learning resources to the developer community.
+**Tech Arambh 2.0 — Education Theme Winner** — Built GyanSetu, an audio-first, RAG-powered exam-prep platform for visually impaired students.
+
+**HackJNU 4.0 — 2nd Runner-Up** — Built Job-Scam Detector in a 36-hour national hackathon.
+
+**10+ Hackathon Finals, 4 Hackathons Organized** — Finalist at national and inter-college events, and organizer of 4 hackathons.
+
+**Campus Ambassador of Beastlife** — Organized fitness challenges, including the Push-Up Challenge at TechJam 2.0, and grew the Fitness Freaks community at the institutional level.
+
+**Open Source Contributor** — 4 merged pull requests to MindMitra through Social Summer of Code.
 
 ---
 
@@ -130,8 +168,6 @@ Actively contributing to repositories, maintaining public learning resources, an
 ---
 > *"The best way to predict the future is to build it."*
 >
-> I write code that ships. I build products, not just prototypes. Every project is an attempt to turn complex, messy problems into something elegant — and useful.
-
-</div>
+> I build AI that does things, not just says things. Every project is an attempt to turn complex, messy problems into something elegant and useful.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1b69,100:0d0d1a&height=110&section=footer" />
